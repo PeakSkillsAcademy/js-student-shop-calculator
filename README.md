@@ -64,10 +64,3 @@ Math.floor()
 
 Math.random()
 
-🛠 Requirements
-
-Install Node.js first.
-
-Install prompt-sync:
-
-npm install prompt-sync
